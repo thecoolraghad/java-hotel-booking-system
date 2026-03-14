@@ -1,0 +1,29 @@
+# Compiled Java classes
+*.class
+out/
+
+# JAR files (add your own JDBC driver manually)
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Database credentials backup (never commit real credentials)
+db.properties
+config.properties
